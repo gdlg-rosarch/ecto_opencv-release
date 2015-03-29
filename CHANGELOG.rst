@@ -1,3 +1,11 @@
+0.5.5 (2015-03-29)
+------------------
+* compile with the latest opencv_candidate
+* use OpenCV's LSH
+* remove useless file
+* clean extensions
+* Contributors: Vincent Rabaud
+
 0.5.4 (2015-01-03)
 ------------------
 * remove SSE dependency
