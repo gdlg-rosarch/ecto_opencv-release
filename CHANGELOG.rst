@@ -1,3 +1,8 @@
+0.5.6 (2015-04-19)
+------------------
+* fix non-existence of radiusMatch for LSH
+* Contributors: Vincent Rabaud
+
 0.5.5 (2015-03-29)
 ------------------
 * compile with the latest opencv_candidate
