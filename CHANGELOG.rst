@@ -1,3 +1,10 @@
+0.6.0 (2015-05-09)
+------------------
+* add proper rosunit dependency
+* convert Python tests to proper nose tests
+* use cv_backports to pull in opencv2.4.9 imshows with zoom and parallel thread support.
+* Contributors: Daniel Stonier, Vincent Rabaud
+
 0.5.6 (2015-04-19)
 ------------------
 * fix non-existence of radiusMatch for LSH
