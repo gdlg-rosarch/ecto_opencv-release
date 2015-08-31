@@ -1,3 +1,8 @@
+0.6.1 (2015-08-31)
+------------------
+* Fix compatibility with OpenCV 2.4.11+
+* Contributors: Scott K Logan, Vincent Rabaud
+
 0.6.0 (2015-05-09)
 ------------------
 * add proper rosunit dependency
