@@ -1,0 +1,12 @@
+Source: ros-jade-ecto-opencv
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, ros-jade-catkin, ros-jade-cv-backports, ros-jade-ecto, ros-jade-opencv-candidate, ros-jade-rosunit
+Homepage: http://plasmodic.github.io/ecto_opencv
+Standards-Version: 3.9.2
+
+Package: ros-jade-ecto-opencv
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, ros-jade-cv-backports, ros-jade-ecto, ros-jade-opencv-candidate
+Description: Ecto bindings for common opencv functionality.
