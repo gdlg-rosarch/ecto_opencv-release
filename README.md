@@ -1,3 +1,26 @@
+## ecto_opencv (jade) - 0.6.2-0
+
+The packages in the `ecto_opencv` repository were released into the `jade` distro by running `/usr/bin/bloom-release --track jade --rosdistro jade ecto_opencv` on `Sun, 24 Apr 2016 09:34:47 -0000`
+
+The `ecto_opencv` package was released.
+
+Version of package(s) in repository `ecto_opencv`:
+
+- upstream repository: https://github.com/plasmodic/ecto_opencv.git
+- release repository: https://github.com/ros-gbp/ecto_opencv-release.git
+- rosdistro version: `0.6.1-0`
+- old version: `0.6.1-0`
+- new version: `0.6.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## ecto_opencv (indigo) - 0.6.2-0
 
 The packages in the `ecto_opencv` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo ecto_opencv` on `Sun, 24 Apr 2016 09:31:41 -0000`
