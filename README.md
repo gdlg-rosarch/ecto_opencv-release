@@ -1,3 +1,26 @@
+## ecto_opencv (kinetic) - 0.7.2-0
+
+The packages in the `ecto_opencv` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic ecto_opencv` on `Thu, 09 Nov 2017 08:26:16 -0000`
+
+The `ecto_opencv` package was released.
+
+Version of package(s) in repository `ecto_opencv`:
+
+- upstream repository: https://github.com/plasmodic/ecto_opencv.git
+- release repository: https://github.com/ros-gbp/ecto_opencv-release.git
+- rosdistro version: `0.7.1-0`
+- old version: `0.7.1-0`
+- new version: `0.7.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## ecto_opencv (kinetic) - 0.7.1-0
 
 The packages in the `ecto_opencv` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic ecto_opencv` on `Wed, 08 Nov 2017 23:21:29 -0000`
